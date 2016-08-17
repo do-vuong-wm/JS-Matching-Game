@@ -1,0 +1,43 @@
+body{
+
+    background-color: black;
+    color: white;
+
+}
+
+#rightSide{
+
+    width: 500px;
+    height: 500px;
+    left: 500px;
+
+
+}
+
+#leftSide{
+
+    width: 500px;
+    height: 500px;
+
+}
+
+div{
+
+    position: absolute;
+
+}
+
+img{
+
+    position: absolute;
+
+}
+
+#border{
+
+    height: 480px;
+    border: 5px solid white;
+    border-radius: 40%;
+    left: 500px;
+
+}
