@@ -22,7 +22,7 @@ function generateFire(){
 
     var leftImg = leftSide.cloneNode(true);
     leftImg.removeChild(leftImg.lastChild);
-   
+    rightSide.appendChild(leftImg);
 
     leftSide.lastChild.onclick =
 
